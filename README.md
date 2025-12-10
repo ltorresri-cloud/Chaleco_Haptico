@@ -1,2 +1,2 @@
-# Chaleco_Haptico
+# Chaleco_Háptico
 Documentación: Taller ingeniería electrónica
